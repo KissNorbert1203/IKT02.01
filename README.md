@@ -1,4 +1,4 @@
 # IKT02.01
 # Github szerver
 # Lokális repo
-# commit
+# commit feladat
